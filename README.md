@@ -94,7 +94,7 @@ If no resource matches the specified `locale` and `audience` parameters, the scr
 
 ## Metadata Structure
 
-The script expects Cloudinary metadata in the following format:
+The template script expects Cloudinary metadata in the following format. Please follow the [documentation](https://cloudinary.com/documentation/assets_onboarding_metadata_tags_tutorial) for adding metadata.
 
 ```json
 [
