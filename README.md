@@ -114,6 +114,9 @@ The template script expects Cloudinary metadata in the following format. Please 
 ]
 ```
 
+## Prerequisites
+Unrestrict the list delivery type: Open the Security Settings in your Cloudinary Console, and clear the Resource list item under Restricted image types.
+
 ## Deployment
 
 1. Upload the script to your Cloudinary account
